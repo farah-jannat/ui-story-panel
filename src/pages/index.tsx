@@ -1,6 +1,6 @@
-export { default as Ecommerce } from './Ecommerse';
+export { default as Ecommerse } from './Ecommerse';
 export { default as Kanban } from './Kanban';
-export { default as Orders } from './Order';
+export { default as Order } from './Order';
 export { default as Employees } from './Employees';
 export { default as Editor } from './Editor';
 export { default as Customers } from './Customers';
@@ -8,7 +8,7 @@ export { default as ColorPicker } from './ColorPicker';
 export { default as Calendar } from './Calendar';
 export { default as Area } from './Charts/Area';
 export { default as Bar } from './Charts/Bar';
-export { default as ColorMapping } from './Charts/ColorMaping';
+export { default as ColorMaping } from './Charts/ColorMaping';
 export { default as Financial } from './Charts/Financial';
 export { default as Line } from './Charts/Line';
 export { default as Pie } from './Charts/Pie';
